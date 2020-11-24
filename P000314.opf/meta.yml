@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6248
   title: རེབ་ཀོང་རུས་མཛོད་ལྟ་བ་མཁའ་ཁྱབ་ཕྱོགས་བྲལ།
-  volume: ''
+  volume:
+    39910f4d51194ea2927a666bede3e58c:
+      image_group_id: I1KG10627
+      title: Volume 1 of reb kong rus mdzod lta ba mkha' khyab phyogs bral/
+      volume_number: 1
+      total_pages: 766
   author: ''
+ebook_metadata:
+  title: རེབ་ཀོང་རུས་མཛོད་ལྟ་བ་མཁའ་ཁྱབ་ཕྱོགས་བྲལ།
+  author: ''
+  sku: P000314
+  cover: cover.jpg
+  layers:
+  - pagination
