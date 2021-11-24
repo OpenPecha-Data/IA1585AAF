@@ -1,5 +1,7 @@
 id: P000314
 initial_creation_type: ocr
+created_at: 12/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG6248
   title: རེབ་ཀོང་རུས་མཛོད་ལྟ་བ་མཁའ་ཁྱབ་ཕྱོགས་བྲལ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 766
       base_file: v001.txt
-ebook_metadata:
-  title: རེབ་ཀོང་རུས་མཛོད་ལྟ་བ་མཁའ་ཁྱབ་ཕྱོགས་བྲལ།
-  author: ''
-  sku: P000314
-  cover: cover.jpg
-  layers:
-  - pagination
